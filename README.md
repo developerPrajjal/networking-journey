@@ -13,8 +13,8 @@ I’ll be uploading:
 ## 📌 Repository Structure
 
 Networking-Journey/
-│
 
+│
 ├── Day1/ # First networking lab + notes
 
 
