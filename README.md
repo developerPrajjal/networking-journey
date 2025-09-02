@@ -16,6 +16,8 @@ Networking-Journey/
 
 ├── Day1/ # First networking lab + notes
 
+├── Day2
+
 
 Each folder contains:
 - `.pkt` → Packet Tracer lab file  
@@ -25,7 +27,8 @@ Each folder contains:
 
 ## 🎯 My Goals
 - Master **Networking Fundamentals**  
-- Prepare for **CCNA 200-301 Certification**  
+- Prepare for **CCNA 200-301 Certification**
+- Prepare for **CompTIA Security+ Certification**
 - Build strong foundation for **Cybersecurity & Cloud Security**  
 - Use this repo as a **public portfolio** for future opportunities  
 
