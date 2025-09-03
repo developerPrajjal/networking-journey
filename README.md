@@ -16,8 +16,9 @@ Networking-Journey/
 
 ├── Day1/ # First networking lab + notes
 
-├── Day2
+├── Day2/
 
+├── Day3/
 
 Each folder contains:
 - `.pkt` → Packet Tracer lab file  
