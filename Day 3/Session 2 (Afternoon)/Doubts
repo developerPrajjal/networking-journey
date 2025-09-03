@@ -1,0 +1,50 @@
+🔹 1. Device Models
+
+Cisco 2960 Switch → a commonly used enterprise Layer 2 switch in Packet Tracer.
+
+Cisco 1941 Router → a standard enterprise router model in Packet Tracer.
+
+👉 In Packet Tracer, you’ll see multiple switches & routers (like 2950, 3560, 2911, 2811).
+We usually pick 2960 switch + 1941 router for CCNA labs because:
+
+They are commonly covered in CCNA exam.
+
+They have the right features (VLAN, trunking, router-on-a-stick, routing protocols).
+
+They are simple, reliable, and used in most tutorials.
+
+🔹 2. Interface Names
+
+Each device has interfaces (ports) with specific names:
+
+On Switch (2960):
+
+Fa0/1 to Fa0/24 → FastEthernet ports (24 in total).
+
+Gi0/1, Gi0/2 → Gigabit ports.
+
+On Router (1941):
+
+G0/0 and G0/1 → Gigabit interfaces.
+
+Some models have Fa0/0 or Fa0/1.
+
+👉 Example:
+
+Fa0/1 means FastEthernet Port 1.
+
+G0/0 means Gigabit Port 0/0.
+
+🔹 3. Why we use specific ports in labs
+
+For PCs → Switch, we usually use Fa0/1, Fa0/2, Fa0/3 etc.
+
+For Switch → Router, we often use Fa0/24 (last port) so it’s visually easy to remember.
+
+On router, we usually use G0/0 as the connected interface.
+
+📌 In short:
+
+Numbers like 2960 / 1941 = device model in Packet Tracer.
+
+Numbers like Fa0/1, G0/0 = port/interface IDs.
