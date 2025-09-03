@@ -22,7 +22,8 @@ Networking-Journey/
 
 Each folder contains:
 - `.pkt` → Packet Tracer lab file  
-- `Notes.md` → Detailed explanation & learnings  
+- `TheoryNotes.md` → Detailed explanation & learnings of Theory portion
+- `LabNotes.md` → Detailed explanation,learnings & Step-by-Step Guide of Lab portion
 
 ---
 
