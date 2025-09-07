@@ -24,6 +24,10 @@ Networking-Journey/
 
 ├── Day5/
 
+├── Day6/
+
+├── Day7/
+
 Each folder contains:
 - `.pkt` → Packet Tracer lab file  
 - `TheoryNotes.md` → Detailed explanation & learnings of Theory portion
